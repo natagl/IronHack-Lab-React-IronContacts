@@ -1,0 +1,24 @@
+tr {
+  color: black;
+}
+button {
+  background-color: salmon;
+}
+
+#add {
+  background-color: gold;
+}
+
+#sort {
+  background-color: hotpink;
+}
+
+#popular {
+  background-color: lawngreen;
+}
+
+h1 {
+  color: dodgerblue;
+}
+div#btn {
+}
